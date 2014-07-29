@@ -19,6 +19,7 @@ And you can use the artifacts like this:
 ```groovy
 dependencies {
 	compile 'com.leocardz:link-preview:1.1@aar'
+	compile 'com.leocardz:aelv:1.1@aar'
 	// ...
 }
 ```
@@ -26,6 +27,8 @@ dependencies {
 ### List of libraries on this repository
 
 &bull; [Android Link Preview](https://github.com/LeonardoCardoso/Android-Link-Preview "It makes a preview from an url, grabbing all informations. Such as title, relevant texts and images."). Usage: 'com.leocardz:link-preview:1.1@aar'
+
+&bull; [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView "Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item."). Usage: 'com.leocardz:aelv:1.1@aar'
 
 
 ## License:
