@@ -33,6 +33,7 @@ dependencies {
 	compile 'com.leocardz:aelv:1.1@aar'
 	compile 'com.leocardz:pca:1.0'
     compile 'com.leocardz:parse:1.9.2'
+    compile 'com.bowyer.app:fabtransitionlayout:0.2.1@aar'
 	// ...
 }
 ```
@@ -45,7 +46,9 @@ dependencies {
 
 &bull; [Pix Color Analyzer](https://github.com/LeonardoCardoso/Pix-Color-Analyzer "Library with the aim to analyze the pixel colors of an ARGB image."). Usage: 'com.leocardz:pca:1.0'
 
-&bull; [Parse.com](https://http://parse.com/ "As they don't have Maven/Gradle support"). Usage: 'com.leocardz:parse:1.9.2' (You also need to add 'com.parse.bolts:bolts-android:1.+', which is already in jcenter())
+&bull; [Parse.com](https://parse.com/ "As they don't have Maven/Gradle support"). Usage: 'com.leocardz:parse:1.9.2' (You also need to add 'com.parse.bolts:bolts-android:1.+', which is already in jcenter()) the pixel colors of an ARGB image."). Usage: 'com.leocardz:pca:1.0'
+
+&bull; [FabTransitionLayout](https://github.com/LeonardoCardoso/FabTransitionLayout). Usage: 'com.bowyer.app:fabtransitionlayout:0.2.1@aar'. A little modified version of https://github.com/bowyer-app/FabTransitionLayout
 
 
 ## License:
