@@ -51,6 +51,9 @@ dependencies {
 &bull; [FabTransitionLayout](https://github.com/LeonardoCardoso/FabTransitionLayout). Usage: 'com.bowyer.app:fabtransitionlayout:0.2.1@aar'. A little modified version of https://github.com/bowyer-app/FabTransitionLayout
 
 
+## Contact
+Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
+
 ## License:
 The licenses are provided by the individual library owner.
 
