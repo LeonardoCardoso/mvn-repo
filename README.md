@@ -29,7 +29,7 @@ repositories {
 And you can use the artifacts like this:
 ```groovy
 dependencies {
-	compile 'com.leocardz:link-preview:1.2.2@aar'
+	compile 'com.leocardz:link-preview:2.0.0@aar'
 	compile 'com.leocardz:aelv:1.1@aar'
 	compile 'com.leocardz:pca:1.0'
     compile 'com.leocardz:parse:1.9.2'
